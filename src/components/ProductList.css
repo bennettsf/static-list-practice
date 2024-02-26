@@ -1,0 +1,13 @@
+.product {
+    position: relative;
+    width: 50%;
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border: solid 1px black;
+    padding: 20px;
+    display: block;
+    text-align: center;
+
+}
